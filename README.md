@@ -1,3 +1,6 @@
+This code is associated with the paper from  Enel et al., "Stable and dynamic representations of
+value in the prefrontal cortex". eLife, 2020. http://doi.org/10.7554/eLife.54313
+
 # What's in this repository?
 
 It contains all the necessary **python** scripts to replicate the cross-temporal
